@@ -1,4 +1,4 @@
-#! /usr/bin/env python
+#! /usr/bin/env python3
 '''
 This file is part of ConfigShell.
 Copyright (c) 2011-2013 by Datera, Inc

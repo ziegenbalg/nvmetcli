@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 '''
 Frontend to access to the NVMe target configfs hierarchy
