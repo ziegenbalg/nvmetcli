@@ -8,6 +8,7 @@ Build-Depends:
  debhelper (>= 9.20160403~) | dh-autoreconf,
  dh-python,
  python3,
+ python3-full,
  python3-setuptools,
  python3-nose2
 Standards-Version: 3.9.4
