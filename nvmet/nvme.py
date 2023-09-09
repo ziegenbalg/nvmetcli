@@ -246,7 +246,7 @@ class Root(CFSNode):
 
     def _modprobe(self, modname):
         try:
-            from kmodpy import kmod
+            import kmod
 
             try:
                 kmod.Kmod().modprobe(modname, quiet=True)
